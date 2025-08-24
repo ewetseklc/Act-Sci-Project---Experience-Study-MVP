@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Experience Study MVP (Lapse)
 Run the notebook to compute crude and credibility-blended lapse rates and output CSVs/PNGs.
 **Methods:** Crude lapse = lapses/exposure by duration; credibility uses Z = n/(n + k) with k=5000 and overall mean as complement.
@@ -13,3 +14,6 @@ Run the notebook to compute crude and credibility-blended lapse rates and output
 - results/lapse_curve_preferred.png — Preferred risk class curve
 - results/lapse_onepager.png — clean summary chart with key stats
 
+=======
+# Act-Sci-Project---Experience-Study-MVP
+>>>>>>> 5d046f5a094dde118569dafc69c30eac2beb80c2
